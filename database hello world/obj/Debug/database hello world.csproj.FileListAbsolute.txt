@@ -1,0 +1,6 @@
+c:\users\205\documents\visual studio 2015\Projects\database hello world\database hello world\bin\Debug\database hello world.exe.config
+c:\users\205\documents\visual studio 2015\Projects\database hello world\database hello world\bin\Debug\database hello world.exe
+c:\users\205\documents\visual studio 2015\Projects\database hello world\database hello world\bin\Debug\database hello world.pdb
+c:\users\205\documents\visual studio 2015\Projects\database hello world\database hello world\obj\Debug\database hello world.csprojResolveAssemblyReference.cache
+c:\users\205\documents\visual studio 2015\Projects\database hello world\database hello world\obj\Debug\database hello world.exe
+c:\users\205\documents\visual studio 2015\Projects\database hello world\database hello world\obj\Debug\database hello world.pdb
